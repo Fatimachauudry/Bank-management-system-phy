@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Fatima Tahir ",
+        "age": 19,
+        "email": "fatimachauuudry@gmail.com",
+        "pin": 6002,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "Rida",
+        "age": 24,
+        "email": "ridatahir@gmail.com",
+        "pin": 2222,
+        "accountNo.": "1334",
+        "balance": 0
+    },
+    {
+        "name": "zarish",
+        "age": 22,
+        "email": "adfsdar@gmail.com",
+        "pin": 1111,
+        "accountNo.": "1233",
+        "balance": 0
+    },
+    {
+        "name": "Tahir",
+        "age": 54,
+        "email": "gaywgav@gmail.com",
+        "pin": 2223,
+        "accountNo.": "1vd5*B1",
+        "balance": 2345
+    }
+]
